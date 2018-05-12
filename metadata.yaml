@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4528
     wikipedia: http://en.wikipedia.org/wiki/Émile_Faguet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25704#Zola
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-06-05'
 gutenberg_type: Text
