@@ -1,0 +1,31 @@
+_repo: Zola_25704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Faguet, Émile
+    aliases:
+    - Faguet, Emile
+    - Faguet, Auguste-Émile
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '4528'
+    url: http://www.gutenberg.org/2009/agents/4528
+    wikipedia: http://en.wikipedia.org/wiki/Émile_Faguet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25704'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zola, Émile, 1840-1902'
+- !lcc 'PQ'
+title: Zola
+url: http://www.gutenberg.org/ebooks/25704
